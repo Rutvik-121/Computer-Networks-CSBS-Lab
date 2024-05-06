@@ -1,1 +1,2 @@
+# PGM1
 Implement 3 nodes point to point network with duplex links between them. Set the queue size, vary the bandwidth and find the number of packets dropped.
