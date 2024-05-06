@@ -1,2 +1,2 @@
 # CN_Lab
-Computer Networks Subject 6th Semester Lab Record Pgms
+Computer Networks-Computer Science and Business Systems(JSSSTU)-6th Semester Lab Record Pgms
